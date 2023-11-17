@@ -1,7 +1,7 @@
 ﻿HOLA
 
-#PRIMERA PRUEBA DE GIT
+#PRIMERA PRUEBA DE GIT#
 
-##RESUMEN 
+##RESUMEN##
 - 17 de noviembre
 - a ver que tal se da
